@@ -33,8 +33,8 @@ The main functionality includes registration, authorization, and management of u
 - **Prisma Migrations** Manage your database schema and its migrations.
 
 ## Testing
-- **ts-jest** for payment system
-- **Mocking Services** for payment system
+- **ts-jest** TypeScript integration with Jest.
+- **Mocking Services** To isolate tests and check the functionality of individual modules.
 
 ## Development tools
 - **ESLint и Prettier** To check the quality of code and formatting.
